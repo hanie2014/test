@@ -5,7 +5,7 @@
 	'price': 4.00,
 	'currency': 'USD'
 	'category': 'Sales Management',
-	'description': 'Sale model',
+	'description': 'Sale model calculate qty units from packaging',
 	'depends': ['sale', 'web'],
 	'installable': True,
 	'auto_install': False,
