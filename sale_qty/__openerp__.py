@@ -1,5 +1,5 @@
 {
-	'name': 'Sale',
+	'name': 'Sale Packaging',
 	'version': '1.1',
 	'category': 'Sales Management',
 	'description': 'Sale',
