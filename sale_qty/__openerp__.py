@@ -3,7 +3,7 @@
 	'version': '1.1',
 	'author': 'hanie',
 	'price': 4.00,
-	'currency': 'USD'
+	'currency': 'USD',
 	'category': 'Sales Management',
 	'description': 'Sale model calculate qty units from packaging',
 	'depends': ['sale', 'web'],
